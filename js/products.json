@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "weight": 630,
+    "name": "Margarita",
+    "description": "Tomato sauce, mozzarella cheese, basil, chicken, green pepper",
+    "price": 10,
+    "img": "pizza1.jpg"
+  },
+  {
+    "id": 2,
+    "weight": 510,
+    "price": 11,
+    "name": "Pepperoni",
+    "description": "pepperoni, signature sauce, tomatoes, mushrooms, suluguni cheese",
+    "img": "pizza2.jpg"
+  },
+  {
+    "id": 3,
+    "weight": 599,
+    "price": 9.99,
+    "name": "Autumn",
+    "description": "shank, olives, mushrooms, ketchup, parmesan",
+    "img": "pizza3.jpg"
+  },
+  {
+    "id": 4,
+    "weight": 550,
+    "price": 12,
+    "name": "Spicy",
+    "description": "pepperoni, jalapenos, red pepper flakes, hot sauce, mozzarella, tomatoes",
+    "img": "pizza4.jpg"
+  },
+  {
+    "id": 5,
+    "weight": 500,
+    "price": 10,
+    "name": "Philadelphia",
+    "description": "philadelphia cheese, onion, capers, dill, mozzarella, olives",
+    "img": "pizza5.jpg"
+  },
+  {
+    "id": 6,
+    "weight": 580,
+    "price": 13,
+    "name": "4 Meats",
+    "description": "pepperoni, sausage, ham, bacon, tomato sauce, mozzarella, pepper",
+    "img": "pizza6.jpg"
+  },
+  {
+    "id": 7,
+    "weight": 560,
+    "price": 9,
+    "name": "Pepperoni Lite",
+    "description": "pepperoni, mozzarella, pepper, basil",
+    "img": "pizza7.jpg"
+  },
+  {
+    "id": 8,
+    "weight": 540,
+    "price": 9,
+    "name": "Vegetable",
+    "description": "pepper, mozzarella, zucchini, chicken, arugula",
+    "img": "pizza8.jpg"
+  },
+  {
+    "id": 9,
+    "weight": 510,
+    "price": 10,
+    "name": "Florentina",
+    "description": "mozzarella, olives, arugula, cheddar",
+    "img": "pizza9.jpg"
+  },
+  {
+    "id": 10,
+    "weight": 400,
+    "price":  8,
+    "name": "children's paradise",
+    "description": "yellow pepper, olives, tomatoes, parmesan",
+    "img": "pizza10.jpg"
+  },
+  {
+    "id": 11,
+    "weight": 550,
+    "price": 13,
+    "name": "4 Сheeses",
+    "description": "mozzarella, dor blue, parmesan, gouda, oregano, pear",
+    "img": "pizza11.jpg"
+  }
+]
