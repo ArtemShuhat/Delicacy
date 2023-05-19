@@ -1,4 +1,4 @@
-const url = "products.json";
+const url = "/products.json";
 
 $.ajax({
   url: url,
