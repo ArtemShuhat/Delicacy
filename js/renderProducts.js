@@ -17,7 +17,7 @@ $.ajax({
       // добавляем данные продукта
       card.innerHTML = `
           <div class="card mb-4 cont-menu" data-id="${product.id}">
-            <img class="product-img" src="/images/${product.img}" alt="" />
+            <img class="product-img" src="./images/${product.img}" alt="" />
             <div class="card-body text-center">
               <h4 class="item-title">${product.name}</h4>
               <p><small data-items-in-box class="text-muted">${product.description}</small></p>
